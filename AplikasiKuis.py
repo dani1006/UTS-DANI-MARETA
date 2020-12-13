@@ -1,1 +1,5 @@
 # UTS-DANI-MARETA
+# GAME KUIS SEDERHANA PERKALIAN MATEMATIKA
+
+print("Game Matermatika")
+
