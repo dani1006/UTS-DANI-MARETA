@@ -86,4 +86,9 @@ def show_menu():
         print("wah ada yang salah!")
         
 soal_pertama()
+soal_kedua()
+soal_ketiga()
+soal_kemepat()
+soal_kelima()
+show_menu()
       
