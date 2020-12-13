@@ -39,30 +39,29 @@ def soal_keenam():
     else:
         print("Yah salah")
 def soal_ketujuh():
-    D = int(inpuy(" 9 * 12 = "))
+    D = int(input(" 9 * 12 = "))
     if (D == 108):
         print("Benar!! ")
     else:
         print("Yah salah")
 def soal_kedelapan():
-    E = int(input(" 3 x 1 = ")
+    E = int(input(" 3 x 1 = "))
     if (E == 3):
         print("Benar!! ")
     else:
-        print("Yah salah")
+        print("Yah salah ")    
 def soal_kesembilan():
-    F= int(input(" 4 x 24 = "))
-    if (F== 96):
+    F = int(input(" 4 x 24 = "))
+    if (F == 96):
         print("Benar!! ")
     else:
         print("Yah salah")
 def soal_kesepuluh():
-    G= int(input(" 7 x 9 = "))
-    if (G== 54):
+    G = int(input(" 7 x 9 = "))
+    if (G == 63):
         print("Benar!! ")
     else:
         print("Yah salah ")   
-            
 def show_menu():
     print()
     print("----Istirahat duluu----")
@@ -85,10 +84,11 @@ def show_menu():
     else:
         print("wah ada yang salah!")
         
+
+
 soal_pertama()
 soal_kedua()
 soal_ketiga()
-soal_kemepat()
+soal_keempat()
 soal_kelima()
 show_menu()
-      
